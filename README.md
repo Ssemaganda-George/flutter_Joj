@@ -1,2 +1,2 @@
 # flutter_Joj
-Repo for Flutter 
+Repo for Flutter demo
